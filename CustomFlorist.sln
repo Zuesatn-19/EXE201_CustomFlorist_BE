@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomFlorist.API", "CustomFlorist.API\CustomFlorist.API.csproj", "{A569B540-2163-4ECF-AFF3-FBB2124AD3CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomFlorist.Domain", "CustomFlorist.Domain\CustomFlorist.Domain.csproj", "{DB1F4741-0085-4C9D-ACA2-82EB3133F75A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomFlorist.Repository", "CustomFlorist.Repository\CustomFlorist.Repository.csproj", "{00CDECC5-5DC5-4446-B5E8-0D1906356BB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A569B540-2163-4ECF-AFF3-FBB2124AD3CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A569B540-2163-4ECF-AFF3-FBB2124AD3CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A569B540-2163-4ECF-AFF3-FBB2124AD3CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A569B540-2163-4ECF-AFF3-FBB2124AD3CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB1F4741-0085-4C9D-ACA2-82EB3133F75A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB1F4741-0085-4C9D-ACA2-82EB3133F75A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB1F4741-0085-4C9D-ACA2-82EB3133F75A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB1F4741-0085-4C9D-ACA2-82EB3133F75A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00CDECC5-5DC5-4446-B5E8-0D1906356BB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00CDECC5-5DC5-4446-B5E8-0D1906356BB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00CDECC5-5DC5-4446-B5E8-0D1906356BB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00CDECC5-5DC5-4446-B5E8-0D1906356BB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
